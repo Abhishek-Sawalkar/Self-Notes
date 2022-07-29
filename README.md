@@ -14,7 +14,7 @@ Notes about various topics related to AI and ML
 - univariate analysis 
 - bivariate analysis 
 - multivariate analysis
-- Various Seaborn plotting methods
+- Various Seaborn plotting methods:
   1. Scatter Plot (BiVariate, MultiVariate)
   2. Line Plot (BiVariate, MultiVariate)
   3. Swarm Plot (UniVariate, BiVariate, MultiVariate)
